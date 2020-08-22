@@ -90,7 +90,7 @@ h1 {
     <a href = "bookAppointments.php"><button><em>Book an appointment</em></button></a>
     <a href = "nurselogin.php"><button><em>Physician Login</em></button></a>
     <a href = "receptionist.html"><button><em>Receptionist Area</em></button></a>
-    <a href = "facilitiesPage.php"><button><em>Facilities</em></button></a>
+    <!--<a href = "facilitiesPage.php"><button><em>Facilities</em></button></a>-->
 
 
     <div class="footer">
