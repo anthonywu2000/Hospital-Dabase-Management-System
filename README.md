@@ -1,4 +1,4 @@
-# Hospital-Dabase-Management-System
+# Hospital-Database-Management-System
 
 - Designed a database system for hospitals where users can book appointments through the web interface. 
 - Employees and users can insert, retrieve, update, view, or delete data through the web interface.
